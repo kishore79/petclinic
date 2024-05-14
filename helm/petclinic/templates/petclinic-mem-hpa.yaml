@@ -13,6 +13,6 @@ spec:
   - type: Resource
     resource:
       name: memory
-    target:
-      type: Utilization
-      averageUtilization: 80
+      target:
+        type: Utilization
+        averageUtilization: 80
